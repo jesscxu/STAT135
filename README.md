@@ -1,6 +1,7 @@
 # Datasets
 
 ## Cocaine STRIDE data
-From http://www.justice.gov/dea/resource-center/stride-data.shtml
+Sourced by Hadley Wickham: https://github.com/hadley/data-stride 
+Original source: http://www.justice.gov/dea/resource-center/stride-data.shtml
 
 
