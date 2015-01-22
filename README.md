@@ -1,4 +1,4 @@
-# Datasets
+# Datasets for lab sessions
 
 ## Cocaine STRIDE data
 Sourced from Hadley Wickham: https://github.com/hadley/data-stride
