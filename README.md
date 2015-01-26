@@ -1,2 +1,2 @@
-# Datasets for lab sessions
+# Datasets and exercises for lab sessions for STAT 135
 
